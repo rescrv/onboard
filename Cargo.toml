@@ -1,9 +1,10 @@
 [package]
 name = "onboard"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Robert Escriva <robert@rescrv.net>"]
 edition = "2021"
 description = "onboard is a ticket tracking system."
 license = "Apache-2.0"
 
 [dependencies]
+utf8path = "0.6.0"
